@@ -60,6 +60,7 @@ let networks = [
   "AU:QLD:SSTR",
   "CL:regional",
   "ES:A-road",
+  "ES:AP-road",
   "CA:NS:R",
   "CA:YT",
   "IS",

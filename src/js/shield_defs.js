@@ -3929,6 +3929,11 @@ export function loadShields() {
     Color.shields.white
   );
 
+  shields["ES:AP-road"] = roundedRectShield(
+    Color.shields.blue,
+    Color.shields.white
+  );
+
   // Faroe Islands
   shields["FO"] = roundedRectShield(
     Color.shields.white,
